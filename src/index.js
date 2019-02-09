@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-
+//Need to separate the classes of individual components
 class Square extends React.Component {
   constructor(props) {
     super(props);
